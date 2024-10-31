@@ -11,7 +11,7 @@
 
     <name>PostRise</name>
     <!-- FIXME change it to the project's website -->
-    <url>https://org.adonix.com/postrise</url>
+    <url>https://www.adonix.org/postrise</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -23,7 +23,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
+            <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
